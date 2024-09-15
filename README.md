@@ -1,31 +1,30 @@
-# Welcome to Sigma's Web Development Course - Hindi Web Development Tutorials! 🚀
+Netflix Clone
 
-## What's Inside:
+Project Overview
+This is a Netflix Clone webpage that replicates the basic structure and layout of the official Netflix homepage. It is developed using HTML and CSS to mimic the user interface. The purpose of this project is to enhance skills in frontend web development by recreating a modern, responsive, and visually appealing web page layout.
 
-If you've been itching to dive into the world of web development but feel lost in a sea of English tutorials, you're in the right place! Our course is exclusively in Hindi and is crafted to guide you from being an absolute beginner to a seasoned pro, one step at a time.
+Features
+Responsive Design: The webpage is fully responsive and adjusts to different screen sizes (desktop, tablet, mobile) using CSS media queries.
 
-## Who Can Benefit?
+Navigation Bar: A simple and clean navigation bar that includes the Netflix logo, search bar, and user account icon.
 
-### This course is a perfect fit for:
+Hero Section: A full-width banner featuring popular shows, including a play button and detailed description.
+Showcase Section: Multiple rows of movies/shows divided into categories, similar to Netflix’s original interface.
 
-1. Beginners eager to start their web development journey
-2. Intermediate developers looking to refine their skills
-3. Individuals who prefer learning in Hindi
+Hover Effects: Interactive hover effects on the movies/shows, displaying additional information like title and genre.
 
-## What You'll Master:
+Footer: Includes links to social media, terms of service, and other important information, similar to Netflix’s footer section.
 
-### During this course, you'll delve into:
+Technologies Used
+HTML5: Structure of the webpage.
+CSS3: Styling, layout, responsiveness, hover effects, etc.
+Flexbox & Grid: For responsive and flexible layouts.
+Google Fonts: Used for custom fonts to match Netflix’s typography.
 
-1. The fundamentals of HTML, CSS, and JavaScript
-2. Both front-end and back-end development
-3. How to seamlessly integrate databases
-4. Real-world project implementation
-5. And a whole lot more!
+Features to Improve
+JavaScript: Add interactivity for better user experience, such as carousels or dynamically loading content.
+Backend Integration: Future enhancement could include connecting to a backend to dynamically load content or integrate user authentication.
 
-## The Schedule:
-
-We're committed to your growth. Expect fresh source code additions nearly every day. Keep up the pace with our schedule and watch your skills soar! 📅
-
-Get ready to embark on an exciting coding journey! 👨‍💻🌟
-
-Ready to start? [Click here](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) to access the complete YouTube playlist.
+Acknowledgments
+This project is a frontend-only clone and is not affiliated with Netflix in any way.
+Images and assets used in this project are for demonstration purposes only.
